@@ -1,4 +1,3 @@
-
 class BankAccount {
 
     private int accountNumber;
