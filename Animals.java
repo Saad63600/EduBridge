@@ -23,6 +23,7 @@ class Dog extends Animal{
         bark();
     }
 }
+
 public class Animals{
     public static void main(String[] args){
         Dog d=new Dog("Tommy","Labrador");
