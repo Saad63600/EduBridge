@@ -2,6 +2,7 @@ class Person {
     String name;
     Person(String name){
         this.name=name;
+        // This is a comment line taken by github to git.
     }
 }
 class Student extends Person{
