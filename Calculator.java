@@ -1,4 +1,4 @@
-public class Calculator {
+public class Calculator{
     void calculator (int a , int b){
         System.out.println("Sum: "+(a+b));
     }
