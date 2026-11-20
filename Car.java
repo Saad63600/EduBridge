@@ -1,4 +1,4 @@
-class Vehicle {
+class Vehicle{
     Vehicle(){
         System.out.println("Vehicle Constructor");
     }
